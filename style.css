@@ -1,0 +1,13 @@
+body{
+    background-color: #ffffff;
+}
+.nav{
+    max-width: 80rem;
+    height: 50px;
+    background-color: lightgray;
+}
+.image{
+    width: 15rem;
+    max-width: 90%;
+    border-radius: 50%;
+}
